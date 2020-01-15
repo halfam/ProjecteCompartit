@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.drawingwithandroid.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/joc"
+        android:orderInCategory="100"
+        android:title="joc"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/joc_touch"
+        android:orderInCategory="100"
+        android:title="Touch"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/joc_bola"
+        android:orderInCategory="100"
+        android:title="Bola"
+        app:showAsAction="never" />
+</menu>
